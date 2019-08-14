@@ -1,0 +1,8 @@
+/* Difference between double quote and single quote */
+var c: Char = 'a' /* This is a character  */
+var s: String = "a" /* This is a string  */
+
+fun main(){
+  println(c)
+  println(s)
+}
